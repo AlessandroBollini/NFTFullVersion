@@ -1,0 +1,2 @@
+# NFTFullVersion
+Latest release
